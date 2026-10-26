@@ -6,3 +6,4 @@ venv/
 .env
 /data/asignacion
 eda_rick_and_morty_es.ipynb
+notebooks/02_data_preparation_es.ipynb
