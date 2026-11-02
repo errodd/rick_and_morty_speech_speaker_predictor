@@ -7,3 +7,4 @@ venv/
 /data/asignacion
 eda_rick_and_morty_es.ipynb
 notebooks/02_data_preparation_es.ipynb
+notebooks/03_modeling_and_model_selection_es.ipynb
